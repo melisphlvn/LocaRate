@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">cs310_java</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Base.Theme.Cs310_java" parent="Theme.Material3.Light.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Cs310_java" parent="Base.Theme.Cs310_java"/>
+</resources>

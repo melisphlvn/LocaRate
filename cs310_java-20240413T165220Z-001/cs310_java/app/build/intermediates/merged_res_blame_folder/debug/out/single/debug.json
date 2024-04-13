@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_brazil.jpeg.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/brazil.jpeg"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/layout_fragment_screen2.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/layout/fragment_screen2.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/navigation_my_nav.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/navigation/my_nav.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_japan.jpeg.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/japan.jpeg"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_my_shape.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/my_shape.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_france.jpeg.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/france.jpeg"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/layout_fragment_screen1.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/layout/fragment_screen1.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_germany.jpeg.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/germany.jpeg"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/layout_fragment_screen3.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/layout/fragment_screen3.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_china.jpeg.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/china.jpeg"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_italy.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/italy.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/layout_comment_layout.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/layout/comment_layout.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_uk.jpeg.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/uk.jpeg"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_canada.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/canada.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/layout_recycler_row.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/layout/recycler_row.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_india.jpeg.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/india.jpeg"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.cs310_java.app-merged_res-44:/drawable_spain.webp.flat",
+        "source": "com.example.cs310_java.app-main-46:/drawable/spain.webp"
+    }
+]
